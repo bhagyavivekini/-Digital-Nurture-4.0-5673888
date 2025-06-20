@@ -41,7 +41,7 @@ Output: [output.txt](financial_forecast/output.txt)
 - Git & GitHub
 - Windows OS
 
-🙋‍♀️ About Me
+🙋‍♀️ About Me:
 **Bhagya Vivekini(mailto: 2200040307ece@gmail.com)**  
 Java Full Stack Engineer (FSE) Trainee @ Cognizant DN-4.0  
 Enthusiastic about Java, backend logic, and practical implementation.
